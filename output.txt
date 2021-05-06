@@ -1,0 +1,9 @@
+Script started on 2021-05-05 22:15:07-04:00
+]0;gbugieda@br014:~/CISC372_hw5[gbugieda@r004 CISC372_hw5]$ ./imageOMP pic1.jpg edge
+Took 7 seconds
+]0;gbugieda@br014:~/CISC372_hw5[gbugieda@r004 CISC372_hw5]$ ./imagePThread pic1.jpg edge
+Took 7 seconds
+]0;gbugieda@br014:~/CISC372_hw5[gbugieda@r004 CISC372_hw5]$ exit
+exit
+
+Script done on 2021-05-05 22:15:34-04:00
